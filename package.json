@@ -32,6 +32,8 @@
   },
   "prettier": {
     "singleQuote": true,
-    "trailingComma": "none"
+    "trailingComma": "none",
+    "editor.formatOnSave": true,
+    "semi": false
   }
 }
